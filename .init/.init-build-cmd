@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/backend-endpoint-validation-suite-290910-290919/backend_test_automation"
+}
